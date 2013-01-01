@@ -1,0 +1,10 @@
+use http://oreilly.com/pub/h/1966 as a quick basis.
+
+Should be able to select servers from a list, add servers, change servers
+display server information
+should be able to open at least one irc channel at a time
+should display channel information
+
+
+
+
